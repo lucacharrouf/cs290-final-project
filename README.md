@@ -46,6 +46,9 @@ Vascular skin lesions in the dataset range from cherry angiomas to angiokeratoma
 Dermatofibroma is a benign skin lesion regarded as either a benign proliferation or an inflammatory reaction to minimal trauma. It is brown often showing a central zone of fibrosis dermatoscopically [24].
 [115 images]
 
+### Requirements
+See `requirements.txt` for dependencies, or install them with: pip install -r requirements.txt
+
 ### Reference
 Tschandl, Philipp. 2018. "The HAM10000 Dataset, a Large Collection of Multi-Source Dermatoscopic Images of Common Pigmented Skin Lesions." Harvard Dataverse. https://doi.org/doi:10.7910/DVN/DBW86T. 
 
