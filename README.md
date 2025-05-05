@@ -50,8 +50,4 @@ Dermatofibroma is a benign skin lesion regarded as either a benign proliferation
 Tschandl, Philipp. 2018. "The HAM10000 Dataset, a Large Collection of Multi-Source Dermatoscopic Images of Common Pigmented Skin Lesions." Harvard Dataverse. https://doi.org/doi:10.7910/DVN/DBW86T. 
 
 ### Contact
-email: lucacharrouf@berkeley.edu
-
-
-### Contact
 email: [lucacharrouf@berkeley.edu](mailto:lucacharrouf@berkeley.edu)
